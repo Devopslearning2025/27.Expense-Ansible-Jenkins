@@ -1,0 +1,5 @@
+login_db_user: root
+Login_db_password: ExpenseApp1
+Login_db_host: db-dev.devopslearning2025.online
+BACKEND_API_URL: backend.app-dev.devopslearning2025.online
+nexus_url: nexus.devopslearning2025.online:8081
